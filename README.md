@@ -4,7 +4,7 @@ This is a starter NextJS app with Tambo hooked up to get your AI app development
 
 ## Get Started
 
-1. Run `npm create-tambo@latest my-tambo-app` for a new project
+1. Run `npm create tambo@latest my-tambo-app` for a new project
 
 2. `npm install`
 
