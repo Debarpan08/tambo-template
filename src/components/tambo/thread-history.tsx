@@ -208,6 +208,7 @@ const ThreadHistoryHeader = React.forwardRef<
           position === "left" ? "right-1" : "left-0",
         )}
         aria-label={isCollapsed ? "Expand sidebar" : "Collapse sidebar"}
+        suppressHydrationWarning
       >
         {isCollapsed ? (
           <ArrowRightToLine
